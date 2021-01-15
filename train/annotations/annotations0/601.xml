@@ -3,7 +3,7 @@
     <filename>601.png</filename>
     <size>
         <width>400</width>
-        <height>282</height>
+        <height>267</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>139</xmin>
-            <ymin>213</ymin>
-            <xmax>153</xmax>
-            <ymax>231</ymax>
+            <xmin>117</xmin>
+            <ymin>48</ymin>
+            <xmax>167</xmax>
+            <ymax>98</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,23 +27,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>191</xmin>
-            <ymin>117</ymin>
-            <xmax>222</xmax>
-            <ymax>154</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>307</xmin>
-            <ymin>123</ymin>
-            <xmax>340</xmax>
-            <ymax>161</ymax>
+            <xmin>206</xmin>
+            <ymin>49</ymin>
+            <xmax>271</xmax>
+            <ymax>109</ymax>
         </bndbox>
     </object>
 </annotation>

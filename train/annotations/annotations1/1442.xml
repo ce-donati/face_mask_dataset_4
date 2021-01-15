@@ -2,22 +2,22 @@
     <folder>images</folder>
     <filename>1442.png</filename>
     <size>
-        <width>400</width>
-        <height>226</height>
+        <width>267</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>with_mask</name>
+        <name>mask_weared_incorrect</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>158</xmin>
-            <ymin>43</ymin>
-            <xmax>191</xmax>
-            <ymax>85</ymax>
+            <xmin>99</xmin>
+            <ymin>47</ymin>
+            <xmax>150</xmax>
+            <ymax>80</ymax>
         </bndbox>
     </object>
 </annotation>

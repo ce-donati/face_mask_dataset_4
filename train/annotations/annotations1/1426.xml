@@ -2,7 +2,7 @@
     <folder>images</folder>
     <filename>1426.png</filename>
     <size>
-        <width>309</width>
+        <width>280</width>
         <height>400</height>
         <depth>3</depth>
     </size>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>90</xmin>
-            <ymin>80</ymin>
-            <xmax>212</xmax>
-            <ymax>247</ymax>
+            <xmin>86</xmin>
+            <ymin>43</ymin>
+            <xmax>147</xmax>
+            <ymax>108</ymax>
         </bndbox>
     </object>
 </annotation>

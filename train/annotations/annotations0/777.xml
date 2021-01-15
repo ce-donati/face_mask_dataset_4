@@ -1,1 +1,23 @@
-<annotation><folder>images</folder><filename>777.png</filename><size><width>933</width><height>763</height><depth>3</depth></size><object><name>mask_weared_incorrect</name><bndbox><xmin>389</xmin><ymin>97</ymin><xmax>635</xmax><ymax>288</ymax></bndbox></object></annotation>
+<annotation>
+    <folder>images</folder>
+    <filename>777.png</filename>
+    <size>
+        <width>275</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mask_weared_incorrect</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>48</xmin>
+            <ymin>107</ymin>
+            <xmax>218</xmax>
+            <ymax>304</ymax>
+        </bndbox>
+    </object>
+</annotation>

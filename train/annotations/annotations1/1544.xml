@@ -2,8 +2,8 @@
     <folder>images</folder>
     <filename>1544.png</filename>
     <size>
-        <width>301</width>
-        <height>400</height>
+        <width>600</width>
+        <height>600</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>103</xmin>
-            <ymin>231</ymin>
-            <xmax>181</xmax>
-            <ymax>338</ymax>
+            <xmin>121</xmin>
+            <ymin>227</ymin>
+            <xmax>384</xmax>
+            <ymax>495</ymax>
         </bndbox>
     </object>
 </annotation>

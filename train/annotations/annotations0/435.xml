@@ -3,7 +3,7 @@
     <filename>435.png</filename>
     <size>
         <width>400</width>
-        <height>283</height>
+        <height>243</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>145</xmin>
-            <ymin>98</ymin>
-            <xmax>181</xmax>
-            <ymax>132</ymax>
+            <xmin>181</xmin>
+            <ymin>75</ymin>
+            <xmax>247</xmax>
+            <ymax>148</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -1,1 +1,1 @@
-<annotation><folder>images</folder><filename>786.png</filename><size><width>1880</width><height>736</height><depth>3</depth></size><object><name>mask_weared_incorrect</name><bndbox><xmin>798</xmin><ymin>322</ymin><xmax>1053</xmax><ymax>639</ymax></bndbox></object></annotation>
+<annotation><folder>images</folder><filename>786.png</filename><size><width>910</width><height>559</height><depth>3</depth></size><object><name>without_mask</name><bndbox><xmin>301</xmin><ymin>9</ymin><xmax>471</xmax><ymax>258</ymax></bndbox></object></annotation>

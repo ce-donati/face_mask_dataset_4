@@ -2,8 +2,8 @@
     <folder>images</folder>
     <filename>710.png</filename>
     <size>
-        <width>400</width>
-        <height>267</height>
+        <width>301</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,36 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>111</xmin>
-            <ymin>106</ymin>
-            <xmax>146</xmax>
-            <ymax>164</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>194</xmin>
-            <ymin>115</ymin>
-            <xmax>224</xmax>
-            <ymax>164</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>22</xmin>
-            <ymin>120</ymin>
-            <xmax>50</xmax>
-            <ymax>161</ymax>
+            <xmin>121</xmin>
+            <ymin>192</ymin>
+            <xmax>212</xmax>
+            <ymax>312</ymax>
         </bndbox>
     </object>
 </annotation>

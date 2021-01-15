@@ -2,7 +2,7 @@
     <folder>images</folder>
     <filename>1053.png</filename>
     <size>
-        <width>301</width>
+        <width>267</width>
         <height>400</height>
         <depth>3</depth>
     </size>
@@ -14,10 +14,36 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>103</xmin>
-            <ymin>197</ymin>
-            <xmax>207</xmax>
-            <ymax>332</ymax>
+            <xmin>106</xmin>
+            <ymin>45</ymin>
+            <xmax>158</xmax>
+            <ymax>104</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>194</xmin>
+            <ymin>62</ymin>
+            <xmax>215</xmax>
+            <ymax>88</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>without_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>226</xmin>
+            <ymin>2</ymin>
+            <xmax>267</xmax>
+            <ymax>97</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -3,7 +3,7 @@
     <filename>443.png</filename>
     <size>
         <width>400</width>
-        <height>217</height>
+        <height>225</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,36 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>130</xmin>
-            <ymin>19</ymin>
-            <xmax>155</xmax>
-            <ymax>47</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>212</xmin>
-            <ymin>56</ymin>
-            <xmax>232</xmax>
-            <ymax>79</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>298</xmin>
-            <ymin>60</ymin>
-            <xmax>316</xmax>
-            <ymax>80</ymax>
+            <xmin>178</xmin>
+            <ymin>58</ymin>
+            <xmax>247</xmax>
+            <ymax>142</ymax>
         </bndbox>
     </object>
 </annotation>

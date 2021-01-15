@@ -2,7 +2,7 @@
     <folder>images</folder>
     <filename>81.png</filename>
     <size>
-        <width>267</width>
+        <width>275</width>
         <height>400</height>
         <depth>3</depth>
     </size>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>90</xmin>
-            <ymin>84</ymin>
-            <xmax>138</xmax>
-            <ymax>131</ymax>
+            <xmin>25</xmin>
+            <ymin>107</ymin>
+            <xmax>262</xmax>
+            <ymax>304</ymax>
         </bndbox>
     </object>
 </annotation>

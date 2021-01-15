@@ -3,21 +3,21 @@
     <filename>934.png</filename>
     <size>
         <width>400</width>
-        <height>267</height>
+        <height>226</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>with_mask</name>
+        <name>without_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>224</xmin>
-            <ymin>102</ymin>
-            <xmax>256</xmax>
-            <ymax>135</ymax>
+            <xmin>63</xmin>
+            <ymin>34</ymin>
+            <xmax>95</xmax>
+            <ymax>63</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,10 +27,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>133</xmin>
-            <ymin>126</ymin>
-            <xmax>158</xmax>
-            <ymax>149</ymax>
+            <xmin>222</xmin>
+            <ymin>40</ymin>
+            <xmax>272</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>without_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>250</xmin>
+            <ymin>159</ymin>
+            <xmax>279</xmax>
+            <ymax>203</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -2,8 +2,8 @@
     <folder>images</folder>
     <filename>1086.png</filename>
     <size>
-        <width>400</width>
-        <height>399</height>
+        <width>301</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>157</xmin>
-            <ymin>108</ymin>
-            <xmax>244</xmax>
-            <ymax>208</ymax>
+            <xmin>98</xmin>
+            <ymin>204</ymin>
+            <xmax>195</xmax>
+            <ymax>329</ymax>
         </bndbox>
     </object>
 </annotation>

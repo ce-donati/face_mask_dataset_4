@@ -8,29 +8,16 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name>without_mask</name>
+        <name>mask_weared_incorrect</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>45</xmin>
-            <ymin>190</ymin>
-            <xmax>80</xmax>
-            <ymax>235</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>without_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>108</xmin>
-            <ymin>150</ymin>
-            <xmax>169</xmax>
-            <ymax>212</ymax>
+            <xmin>62</xmin>
+            <ymin>67</ymin>
+            <xmax>130</xmax>
+            <ymax>121</ymax>
         </bndbox>
     </object>
 </annotation>

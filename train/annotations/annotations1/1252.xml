@@ -2,35 +2,22 @@
     <folder>images</folder>
     <filename>1252.png</filename>
     <size>
-        <width>400</width>
-        <height>268</height>
+        <width>275</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
     <object>
-        <name>with_mask</name>
+        <name>mask_weared_incorrect</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>89</xmin>
-            <ymin>21</ymin>
-            <xmax>112</xmax>
-            <ymax>44</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>without_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>289</xmin>
-            <ymin>21</ymin>
-            <xmax>311</xmax>
-            <ymax>44</ymax>
+            <xmin>48</xmin>
+            <ymin>107</ymin>
+            <xmax>218</xmax>
+            <ymax>304</ymax>
         </bndbox>
     </object>
 </annotation>

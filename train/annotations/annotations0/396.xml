@@ -14,36 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>75</xmin>
-            <ymin>45</ymin>
-            <xmax>106</xmax>
-            <ymax>83</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>112</xmin>
-            <ymin>39</ymin>
-            <xmax>140</xmax>
-            <ymax>68</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>184</xmin>
-            <ymin>49</ymin>
-            <xmax>213</xmax>
-            <ymax>80</ymax>
+            <xmin>116</xmin>
+            <ymin>36</ymin>
+            <xmax>144</xmax>
+            <ymax>71</ymax>
         </bndbox>
     </object>
 </annotation>

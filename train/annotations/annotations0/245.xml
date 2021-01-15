@@ -3,7 +3,7 @@
     <filename>245.png</filename>
     <size>
         <width>400</width>
-        <height>289</height>
+        <height>262</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>39</xmin>
-            <ymin>53</ymin>
-            <xmax>73</xmax>
-            <ymax>93</ymax>
+            <xmin>175</xmin>
+            <ymin>89</ymin>
+            <xmax>196</xmax>
+            <ymax>120</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,23 +27,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>129</xmin>
-            <ymin>66</ymin>
-            <xmax>156</xmax>
-            <ymax>96</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>272</xmin>
-            <ymin>79</ymin>
-            <xmax>302</xmax>
-            <ymax>111</ymax>
+            <xmin>70</xmin>
+            <ymin>93</ymin>
+            <xmax>81</xmax>
+            <ymax>104</ymax>
         </bndbox>
     </object>
 </annotation>

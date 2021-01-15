@@ -3,7 +3,7 @@
     <filename>351.png</filename>
     <size>
         <width>400</width>
-        <height>298</height>
+        <height>286</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>166</xmin>
-            <ymin>100</ymin>
-            <xmax>243</xmax>
-            <ymax>175</ymax>
+            <xmin>142</xmin>
+            <ymin>66</ymin>
+            <xmax>164</xmax>
+            <ymax>111</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,10 +27,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>254</xmin>
-            <ymin>125</ymin>
-            <xmax>315</xmax>
-            <ymax>172</ymax>
+            <xmin>191</xmin>
+            <ymin>67</ymin>
+            <xmax>225</xmax>
+            <ymax>101</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>308</xmin>
+            <ymin>82</ymin>
+            <xmax>329</xmax>
+            <ymax>127</ymax>
         </bndbox>
     </object>
 </annotation>

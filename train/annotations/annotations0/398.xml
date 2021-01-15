@@ -3,7 +3,7 @@
     <filename>398.png</filename>
     <size>
         <width>400</width>
-        <height>300</height>
+        <height>225</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>76</xmin>
-            <ymin>72</ymin>
-            <xmax>113</xmax>
-            <ymax>110</ymax>
+            <xmin>1</xmin>
+            <ymin>88</ymin>
+            <xmax>13</xmax>
+            <ymax>126</ymax>
         </bndbox>
     </object>
     <object>
@@ -27,9 +27,22 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>236</xmin>
-            <ymin>94</ymin>
-            <xmax>274</xmax>
+            <xmin>57</xmin>
+            <ymin>97</ymin>
+            <xmax>88</xmax>
+            <ymax>134</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>132</xmin>
+            <ymin>92</ymin>
+            <xmax>173</xmax>
             <ymax>134</ymax>
         </bndbox>
     </object>

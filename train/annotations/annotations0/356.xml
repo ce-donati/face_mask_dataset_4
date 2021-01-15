@@ -3,7 +3,7 @@
     <filename>356.png</filename>
     <size>
         <width>400</width>
-        <height>300</height>
+        <height>295</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>105</xmin>
-            <ymin>23</ymin>
-            <xmax>170</xmax>
-            <ymax>96</ymax>
+            <xmin>143</xmin>
+            <ymin>72</ymin>
+            <xmax>271</xmax>
+            <ymax>199</ymax>
         </bndbox>
     </object>
 </annotation>

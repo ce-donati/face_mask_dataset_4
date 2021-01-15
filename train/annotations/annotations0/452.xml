@@ -8,16 +8,16 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name>without_mask</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>134</xmin>
-            <ymin>191</ymin>
-            <xmax>229</xmax>
-            <ymax>316</ymax>
+            <xmin>65</xmin>
+            <ymin>174</ymin>
+            <xmax>180</xmax>
+            <ymax>323</ymax>
         </bndbox>
     </object>
 </annotation>

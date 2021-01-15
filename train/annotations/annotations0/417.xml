@@ -2,7 +2,7 @@
     <folder>images</folder>
     <filename>417.png</filename>
     <size>
-        <width>301</width>
+        <width>400</width>
         <height>400</height>
         <depth>3</depth>
     </size>
@@ -14,10 +14,23 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>101</xmin>
-            <ymin>203</ymin>
-            <xmax>205</xmax>
-            <ymax>347</ymax>
+            <xmin>65</xmin>
+            <ymin>179</ymin>
+            <xmax>137</xmax>
+            <ymax>263</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>254</xmin>
+            <ymin>189</ymin>
+            <xmax>332</xmax>
+            <ymax>276</ymax>
         </bndbox>
     </object>
 </annotation>

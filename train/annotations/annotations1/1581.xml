@@ -2,8 +2,8 @@
     <folder>images</folder>
     <filename>1581.png</filename>
     <size>
-        <width>400</width>
-        <height>275</height>
+        <width>301</width>
+        <height>400</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,36 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>61</xmin>
-            <ymin>117</ymin>
-            <xmax>167</xmax>
-            <ymax>222</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>175</xmin>
-            <ymin>127</ymin>
-            <xmax>258</xmax>
-            <ymax>214</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>with_mask</name>
-        <pose>Unspecified</pose>
-        <truncated>0</truncated>
-        <occluded>0</occluded>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>258</xmin>
-            <ymin>90</ymin>
-            <xmax>338</xmax>
-            <ymax>180</ymax>
+            <xmin>101</xmin>
+            <ymin>151</ymin>
+            <xmax>228</xmax>
+            <ymax>327</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -1,1 +1,23 @@
-<annotation><folder>images</folder><filename>1629.png</filename><size><width>396</width><height>621</height><depth>3</depth></size><object><name>without_mask</name><bndbox><xmin>112</xmin><ymin>91</ymin><xmax>190</xmax><ymax>186</ymax></bndbox></object></annotation>
+<annotation>
+    <folder>images</folder>
+    <filename>1629.png</filename>
+    <size>
+        <width>600</width>
+        <height>405</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>with_mask</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>254</xmin>
+            <ymin>100</ymin>
+            <xmax>387</xmax>
+            <ymax>260</ymax>
+        </bndbox>
+    </object>
+</annotation>

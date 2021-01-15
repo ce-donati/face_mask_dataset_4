@@ -3,7 +3,7 @@
     <filename>869.png</filename>
     <size>
         <width>400</width>
-        <height>250</height>
+        <height>277</height>
         <depth>3</depth>
     </size>
     <segmented>0</segmented>
@@ -14,10 +14,10 @@
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>143</xmin>
-            <ymin>77</ymin>
-            <xmax>252</xmax>
-            <ymax>184</ymax>
+            <xmin>168</xmin>
+            <ymin>76</ymin>
+            <xmax>292</xmax>
+            <ymax>211</ymax>
         </bndbox>
     </object>
 </annotation>
